@@ -17,10 +17,6 @@ Esta es la vista inicial con Swagger.
 Es necesario hacer una autenticación de usuario para poder acceder a los endpoints.<br>
 Los usuarios con acceso están guardados en la base de datos.
 
-![image](https://github.com/raul-hdz-garcia/foro-hub-challenge/assets/157054531/7bafbb8f-ef17-4787-985e-9ac1342e637f)
-
-Si el login y la clave ingresados son correctos se devuelve un token.
-
 ![image](https://github.com/raul-hdz-garcia/foro-hub-challenge/assets/157054531/b15ce3cb-13be-4ac8-915a-4248d6384999)
 
 Se ingresa el token en la sección de autorización y se le libera el acceso a los endpoints.

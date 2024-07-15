@@ -1,7 +1,4 @@
-# Foro Hub Challenge
-Este proyecto es un foro para tópicos donde se pueden realizar operaciones CRUD.
-
-## Tecnologías utilizadas
+## Tecnologías utilizadas en este proyecto
 - Java
 - Spring Boot
 - Spring Security
